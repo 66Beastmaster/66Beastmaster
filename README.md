@@ -64,3 +64,20 @@ Erstelle einen Pull Request in einem der Projekte oder schreib mir direkt auf Gi
 
 **Motto:**  
 > Konsolidiert. Innovativ. Zentral – mit BeastWareTeam.
+
+---
+
+<!-- Badges: Beispiel für 66Beastmaster/66Beastmaster -->
+![Build Status](https://github.com/66Beastmaster/66Beastmaster/actions/workflows/main.yml/badge.svg)
+![Coverage Status](https://coveralls.io/repos/github/66Beastmaster/66Beastmaster/badge.svg?branch=main)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/66Beastmaster/66Beastmaster)
+![License](https://img.shields.io/github/license/66Beastmaster/66Beastmaster)
+![GitHub issues](https://img.shields.io/github/issues/66Beastmaster/66Beastmaster)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/66Beastmaster/66Beastmaster)
+![GitHub stars](https://img.shields.io/github/stars/66Beastmaster/66Beastmaster)
+![GitHub forks](https://img.shields.io/github/forks/66Beastmaster/66Beastmaster)
+![GitHub contributors](https://img.shields.io/github/contributors/66Beastmaster/66Beastmaster)
+![dependencies](https://img.shields.io/david/66Beastmaster/66Beastmaster)
+![npm](https://img.shields.io/npm/dt/66Beastmaster)
+![Custom Badge](https://img.shields.io/badge/BeastWareTeam-zentral-blue)
+![GitHub vulnerabilities](https://img.shields.io/github/vulnerabilities/66Beastmaster/66Beastmaster)
